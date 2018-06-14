@@ -1,16 +1,13 @@
 # Introduction to GPU programming with OpenACC
 
+You will run your first application in OpenACC in order to verify that everything is working correctly. In addition, you will identify some of the main characteristics on [heterogeneous computing](https://en.wikipedia.org/wiki/Heterogeneous_computing) applications developed with OpenACC.
+
 ## Objectives
 
 - [x] Understand why GPU programming has become a disruptive technology.
 - [x] Understand some differences between GPU and CPU hardware.
 - [x] Advantages of OpenACC
 - [x] Running the first heterogenious application.
-
-
-## Introdution
-
-You will run your first application in OpenACC in order to verify that everything is working correctly. In addition, you will identify some of the main characteristics on [heterogeneous computing](https://en.wikipedia.org/wiki/Heterogeneous_computing) applications developed with OpenACC.
 
 
 ## Exercise 1
