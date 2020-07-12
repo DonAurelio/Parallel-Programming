@@ -1,0 +1,13 @@
+# Compile matrix_multiplication_p.cpp as follows
+
+g++ matrix_multiplication_p.cpp -o matrix_multiplication_p -pg
+
+# Execute as follows
+./matrix_multiplication_p
+
+# After execute the program. The file "gmon.out" is created. Please check your current directory.
+# the "gmoun" file keeps the information about the execution of the application.
+
+gprof ejecutable gmon.out > serial_execution_info.txt
+
+# Open the "serial_execution_info.txt" file ¿What did you find?
